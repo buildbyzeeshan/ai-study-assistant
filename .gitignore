@@ -1,0 +1,14 @@
+# Secret files
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
