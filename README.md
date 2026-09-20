@@ -66,3 +66,13 @@ Built by **Zeeshan*
 
 
 * as part of my AI development portfolio.
+* ## 📸 Application Screenshots
+
+### 📝 AI PDF Summary
+![AI PDF Summary](screenshots/summary.png)
+
+### ❓ AI Quiz Generator
+![AI Quiz Generator](screenshots/quize.png)
+
+### 💬 PDF Question & Answer
+![PDF Question Answer](screenshots/quest.png)
